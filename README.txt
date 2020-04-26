@@ -1,9 +1,17 @@
 English : 
 
 
-Sizey_xxx is the height of the screen
+Sizey is the height of the screen
+change it by putting of the two value at : 
+
+-line 19
+-line 79
+
 800 is the main one
 700 is for smaller screens
+
+
+
 
 you might not see specials leaves when on "real world scale". It's for one of two reasons : 
 
@@ -16,11 +24,16 @@ Credits are in the application
 Made by Lilian "Banalian" Pouvreau
 
 
-
+-----------------------------------------------------------------------------
 Français : 
 
 
-Size_xxx est pour la hauteur de l'ecran
+Sizey est pour la hauteur de l'ecran
+Vous pouvez la changer en modifiant ces deux lignes avec l'une des deux valeurs : 
+
+-ligne 19
+-ligne 79
+
 800 est la version principale
 700 est une adaptaion pour les plus petits ecrans
 
@@ -31,3 +44,6 @@ C'est pour au moins une de ces deux raisons :
 dessin apparaisse)
 -la feuille/cerise est cachee derriere d'autres feuilles. Dans ce cas, vous pouvez simplement
 redessiner l'arbre et essayer de chercher a nouveau
+
+les credits sont dans l'application
+Réalisé par Lilian "Banalian" Pouvreau
