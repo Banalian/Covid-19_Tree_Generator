@@ -16,7 +16,7 @@
 //import java.io.*;
  
  
-int sizey=800;
+int sizey=700;
 //URL url;
 HScrollbar hs1;
 PImage img;
@@ -76,7 +76,7 @@ String pays[] = { "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Ant
                   
 void setup() {
   
-  size(1000,800);
+  size(1000,700);
   surface.setLocation(400, 100);
   img = loadImage("banalian.png");
   explications = loadImage("explications.png");

@@ -220,7 +220,7 @@ void mousePressed(){
   
   
   if(sizey==700){
-    if(mouseX>70 && mouseX <134 && mouseY>(height-75) && mouseY <(height-11)){
+    if(mouseX>110 && mouseX <164 && mouseY>(height-75) && mouseY <(height-11)){
       expC=!expC;
       if (!drawexp){
         drawexp = true;
