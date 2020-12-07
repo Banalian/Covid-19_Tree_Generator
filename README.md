@@ -16,7 +16,7 @@ Change it by modifying the two value at :
 you might not see specials leaves when on "real world scale". It's for one of two reasons : 
 
 -There isn't enough cases (you need at least 1 Million of a category to see a leaf/cherry of it)
--The leaf/chrry is hidden behind other leaves. In that case, you can simply redraw the tree and
+-The leaf/cherry is hidden behind other leaves. In that case, you can simply redraw the tree and
 try to look for it again
 
 
