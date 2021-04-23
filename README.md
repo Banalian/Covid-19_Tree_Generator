@@ -1,5 +1,5 @@
 # English : 
-
+PROJECT DEPRECIATED : seems to be broken because of the source file ? didn't took the time to check
 Sizey is the height of the screen
 
 Change it by modifying the two value at : 
@@ -27,7 +27,7 @@ Made by Lilian "Banalian" Pouvreau
 
 -----------------------------------------------------------------------------
 # Français : 
-
+PROJET MORT :  la partie de recuperation des données à l'air de poser problème.
 
 Sizey est pour la hauteur de l'ecran
 Vous pouvez la changer en modifiant ces deux lignes avec l'une des deux valeurs : 
